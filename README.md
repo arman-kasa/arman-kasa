@@ -61,15 +61,14 @@
 ### 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/arman-kasa/project-one">
+  <a href="https://github.com/arman-kasa/Phoenixvest_Platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-kasa&repo=project-one&theme=radical" />
   </a>
-  <a href="https://github.com/arman-kasa/project-two">
+  <a href="https://github.com/arman-kasa/Nobelmind">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-kasa&repo=project-two&theme=radical" />
   </a>
 </p>
 
-*Replace `project-one` and `project-two` with your real repository names to show them off!*
 
 ---
 
