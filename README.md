@@ -20,7 +20,7 @@
 - 🔭 **Currently working on:** building a high‑performance trading bot with Python & MQL, and researching secure API architectures.
 - 🌱 **Currently learning:** advanced penetration testing, threat modeling, and cloud security (AWS / DevSecOps).
 - 💬 **Ask me about:** Python, FastAPI, Linux administration, algorithmic trading, or starting a career in cybersecurity.
-- 📫 **How to reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter/X](https://twitter.com/yourhandle)
+- 📫 **How to reach me:** [Email](mailto:arman.kasa.78@gamil.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter/X](https://twitter.com/yourhandle)
 - ⚡ **Fun fact:** I debug code faster with a cup of Persian tea ☕, and I’m a huge chess fan ♟️.
 
 ---
