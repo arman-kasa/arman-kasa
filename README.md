@@ -62,10 +62,10 @@
 
 <p align="center">
   <a href="https://github.com/arman-kasa/Phoenixvest_Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-kasa&repo=project-one&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-kasa&repo=Phoenixvest_Platform&theme=radical" />
   </a>
   <a href="https://github.com/arman-kasa/Nobelmind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-kasa&repo=project-two&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-kasa&repo=Nobelmind&theme=radical" />
   </a>
 </p>
 
@@ -94,10 +94,10 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://armankasaeian.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:arman.kasa.78@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
