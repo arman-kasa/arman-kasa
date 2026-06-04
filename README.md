@@ -20,7 +20,7 @@
 - 🔭 **Currently working on:** building a high‑performance trading bot with Python & MQL, and researching secure API architectures.
 - 🌱 **Currently learning:** machine learning & artificial intelligence, advanced penetration testing, threat modeling, and cloud security.
 - 💬 **Ask me about:** Python, FastAPI, Linux administration, algorithmic trading, or starting a career in cybersecurity.
-- 📫 **How to reach me:** [Email](mailto:arman.kasa.78@gamil.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/arman_kasa)
+- 📫 **How to reach me:** [Email](mailto:arman.kasa.78@gamil.com) | [LinkedIn](https://linkedin.com/in/arman-kasa) | [Telegram](https://t.me/arman_kasa)
 - ⚡ **Fun fact:** I debug code faster with a cup of Persian tea ☕, I’m a huge chess fan ♟️, and I never miss my weekend tennis match 🎾.
 
 ---
@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://armankasaeian.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arman-kasa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arman.kasa.78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/message/ZHR7NSHF6BN7N1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://t.me/arman_kasa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
