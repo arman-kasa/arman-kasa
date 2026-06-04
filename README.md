@@ -7,11 +7,13 @@
 ### 👨‍🎓 Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Amirkabir_University_of_Technology-B.Sc._Computer_Engineering-blue?style=for-the-badge&logo=data:image/svg+xml;base64,..." alt="Amirkabir University" />
+  <img src="https://img.shields.io/badge/Amirkabir_University_of_Technology-B.Sc._Computer_Engineering-blue?style=for-the-badge" alt="Amirkabir University" />
   <img src="https://img.shields.io/badge/Sharif_University_of_Technology-M.Sc._Cybersecurity_(Ongoing)-red?style=for-the-badge" alt="Sharif University" />
+  <img src="https://img.shields.io/badge/University_of_Tehran-MBA-orange?style=for-the-badge" alt="University of Tehran MBA" />
 </p>
 
-> *Graduated from **Amirkabir University of Technology** (Tehran Polytechnic) with a B.Sc. in Computer Engineering. Currently pursuing a Master’s in **Cybersecurity** at **Sharif University of Technology**, deepening my expertise in network security, ethical hacking, and secure system design.*
+> *Graduated from **Amirkabir University of Technology** (Tehran Polytechnic) with a B.Sc. in Computer Engineering. Currently pursuing a Master’s in **Cybersecurity** at **Sharif University of Technology**, deepening my expertise in network security, ethical hacking, and secure system design. Additionally, I hold an **MBA** from the **University of Tehran**, bridging technical leadership with strategic business thinking.*
+
 
 ---
 
